@@ -2,15 +2,26 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Fun with Bits]]></title>
-  <link href="http://www.funwithbits.net/atom.xml" rel="self"/>
-  <link href="http://www.funwithbits.net/"/>
-  <updated>2017-01-21T17:47:13-02:00</updated>
-  <id>http://www.funwithbits.net/</id>
+  <link href="http://funwithbits.net/atom.xml" rel="self"/>
+  <link href="http://funwithbits.net/"/>
+  <updated>2017-01-22T01:12:11-02:00</updated>
+  <id>http://funwithbits.net/</id>
   <author>
     <name><![CDATA[Raphael S. Carvalho (a.k.a. utroz)]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Hello World!]]></title>
+    <link href="http://funwithbits.net/blog/2017/01/21/hello-world/"/>
+    <updated>2017-01-21T18:07:34-02:00</updated>
+    <id>http://funwithbits.net/blog/2017/01/21/hello-world</id>
+    <content type="html"><![CDATA[<p>Hi everyone. The main goal of this blog is for me to share my experiences as I go through them.
+That way, I can learn a how about how to efficient explain what I am working on, and I would
+also become a better writer as a result of that.</p>
+]]></content>
+  </entry>
   
 </feed>

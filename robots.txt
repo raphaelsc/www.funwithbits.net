@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: 
 
-Sitemap: http://www.funwithbits.net/sitemap.xml 
+Sitemap: http://funwithbits.net/sitemap.xml 

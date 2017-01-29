@@ -4,7 +4,7 @@
   <title><![CDATA[Fun With Bits]]></title>
   <link href="http://funwithbits.net/atom.xml" rel="self"/>
   <link href="http://funwithbits.net/"/>
-  <updated>2017-01-29T01:34:56-02:00</updated>
+  <updated>2017-01-29T19:27:52-02:00</updated>
   <id>http://funwithbits.net/</id>
   <author>
     <name><![CDATA[Raphael S. Carvalho (a.k.a. utroz)]]></name>
@@ -23,7 +23,8 @@
 <p>When you start any game, you expect to see a loading screen, followed by the
 main menu which has a button that allows you to play the game. When you start
 playing the game, it&rsquo;s also expected that you&rsquo;ll be able to go back to main
-menu. All these different stages of the game are known as game states.</p>
+menu and possibly pause and resume the game. All these different stages of the
+game are known as game states.</p>
 
 <p>Handling game states is a very difficult task, especially to newbies to game
 programming like myself. Today, I was looking for an efficient way to switch

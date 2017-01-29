@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Game Programming | Fun With Bits]]></title>
   <link href="http://funwithbits.net/blog/categories/game-programming/atom.xml" rel="self"/>
   <link href="http://funwithbits.net/"/>
-  <updated>2017-01-29T00:39:58-02:00</updated>
+  <updated>2017-01-29T00:58:19-02:00</updated>
   <id>http://funwithbits.net/</id>
   <author>
     <name><![CDATA[Raphael S. Carvalho (a.k.a. utroz)]]></name>
@@ -25,7 +25,7 @@ main menu which has a button that allows you to play the game. When you start
 playing the game, it&rsquo;s also expected that you&rsquo;ll be able to go back to main
 menu. All these different stages of the game are known as game states.</p>
 
-<p>Handling game states is a very difficult task, specially to newbies to game
+<p>Handling game states is a very difficult task, especially to newbies to game
 programming like myself. Today, I was looking for an efficient way to switch
 back and forth between all available states of my simple game.</p>
 

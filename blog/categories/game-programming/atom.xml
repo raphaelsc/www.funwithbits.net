@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Game Programming | Fun With Bits]]></title>
   <link href="http://funwithbits.net/blog/categories/game-programming/atom.xml" rel="self"/>
   <link href="http://funwithbits.net/"/>
-  <updated>2017-01-29T00:58:19-02:00</updated>
+  <updated>2017-01-29T01:34:56-02:00</updated>
   <id>http://funwithbits.net/</id>
   <author>
     <name><![CDATA[Raphael S. Carvalho (a.k.a. utroz)]]></name>
@@ -128,10 +128,6 @@ public:
         if (!_game_states.empty()) {
             _game_states.back()-&gt;on_exit();
             _game_states.pop_back();
-
-            if (!_game_states.empty()) {
-                _game_states.back()-&gt;on_enter();
-            }
         }
     }
 

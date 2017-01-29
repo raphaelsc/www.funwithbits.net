@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Game Programming | Fun With Bits]]></title>
   <link href="http://funwithbits.net/blog/categories/game-programming/atom.xml" rel="self"/>
   <link href="http://funwithbits.net/"/>
-  <updated>2017-01-29T00:28:16-02:00</updated>
+  <updated>2017-01-29T00:39:58-02:00</updated>
   <id>http://funwithbits.net/</id>
   <author>
     <name><![CDATA[Raphael S. Carvalho (a.k.a. utroz)]]></name>
@@ -18,7 +18,7 @@
     <link href="http://funwithbits.net/blog/handling-game-states/"/>
     <updated>2017-01-28T22:52:39-02:00</updated>
     <id>http://funwithbits.net/blog/handling-game-states</id>
-    <content type="html"><![CDATA[<p><em>Prequisite</em>: basic C++ and game programming knowledge</p>
+    <content type="html"><![CDATA[<p><em>Prerequisite</em>: basic C++ and game programming knowledge</p>
 
 <p>When you start any game, you expect to see a loading screen, followed by the
 main menu which has a button that allows you to play the game. When you start
@@ -203,73 +203,6 @@ If you know a better way to do it, please leave a comment!</p>
 title.</p>
 
 <p>See you,</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Ready to Have Fun With Bits?!]]></title>
-    <link href="http://funwithbits.net/blog/hello-world/"/>
-    <updated>2017-01-21T18:07:34-02:00</updated>
-    <id>http://funwithbits.net/blog/hello-world</id>
-    <content type="html"><![CDATA[<p>Hi everyone. I&rsquo;m really glad that I finally launched this blog. Fun With Bits.</p>
-
-<p>Special thanks goes to <a href="http://catonmat.net">Peteris Krumins</a> who shared some
-invaluable insights about blogging.</p>
-
-<p>TL;DR: Bla bla bla about who I am. In this blog, I&rsquo;ll talk about software
-development techniques, low-level hacks, game development, kernel, among other
-interesting topics I feel it&rsquo;s worth sharing with my readers.</p>
-
-<p>I don&rsquo;t expect people to know me prior to reading my blog because I&rsquo;m almost a
-fresh blood &ldquo;getting started&rdquo;. That being said, I&rsquo;m going to introduce myself.</p>
-
-<p>I think that my father (unfortunately, he&rsquo;s no longer around us) is the main
-reason behind my interest in computers. When I was about 10 years old, he
-taught me how to use commands to interact with MS DOS. I remember the most
-important commands were to edit texts, execute programs, and navigate through
-the file system. I don&rsquo;t know how many times I messed up with the operating
-system, making impossible to boot it. I had a lot of fun doing it though.
-After that, I was able to create my own websites using HTML and CSS. I didn&rsquo;t
-even know what programming actually was at that time. I was just curious and
-wanted to do interesting things with my computer.</p>
-
-<p>I actually started with programming after I got interested in creating my own
-alternative server for a MMORPG called Tibia. Of course, I didn&rsquo;t create the
-server, but the experience made me learn how to host a server, manage my
-website and consequently a database which stored players' data, and also
-how to write scripts using LUA programming language for custom systems,
-like quests and spells.</p>
-
-<p>At that time, I wasn&rsquo;t even thinking of computer science as a career. I was
-just having fun with bits. Pun intended :-)
-But I changed my mind and joined a local university for a computer science
-degree. It helped me a lot because I wanted to be the best programmer among
-my peers. I worked really hard. A friend of mine a.k.a. kov introduced me to
-the open source world. He told me about the job opportunities I could get if
-I started helping relevant open source projects out there. IIRC, Linux kernel
-was the first open source project I contributed to. The change was to slightly
-improve the PID allocation code. I will not lie. It was extremely hard to find
-something to do, but the experience taught me a lot. I was really obsessed
-with kernel. I often found myself whispering the word &lsquo;kernel&rsquo; while showing or
-walking down the streets. I wanted to better understand how computers worked,
-from boot to application initialization.</p>
-
-<p>As I was gaining more experience, I contributed to other projects until I got
-my first job opportunity at an israeli startup called Cloudius Systems.
-It was working on creation of a project called <a href="http://osv.io">OSv</a>. In OSv, I
-worked with file systems. Mostly on improving ZFS support. I&rsquo;m working for the
-same company, but now on creation of a distributed database called
-<a href="http://scylladb.com">ScyllaDB</a>.</p>
-
-<p>I think I&rsquo;m considerably better than myself of 5 years ago, but there&rsquo;s a long
-way to go until I can say I&rsquo;m really good with computers.
-By the time being, I&rsquo;ll keep repeating this ZEN poem to myself:
-“To follow the path, look to the master, follow the master, walk with the
-master, see through the master, become the master.”</p>
-
-<p>I&rsquo;ll do my best to share interesting stuff with all of you.</p>
-
-<p>Stay tuned!</p>
 ]]></content>
   </entry>
   

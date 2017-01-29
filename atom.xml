@@ -4,7 +4,7 @@
   <title><![CDATA[Fun With Bits]]></title>
   <link href="http://funwithbits.net/atom.xml" rel="self"/>
   <link href="http://funwithbits.net/"/>
-  <updated>2017-01-29T00:28:16-02:00</updated>
+  <updated>2017-01-29T00:39:58-02:00</updated>
   <id>http://funwithbits.net/</id>
   <author>
     <name><![CDATA[Raphael S. Carvalho (a.k.a. utroz)]]></name>
@@ -18,7 +18,7 @@
     <link href="http://funwithbits.net/blog/handling-game-states/"/>
     <updated>2017-01-28T22:52:39-02:00</updated>
     <id>http://funwithbits.net/blog/handling-game-states</id>
-    <content type="html"><![CDATA[<p><em>Prequisite</em>: basic C++ and game programming knowledge</p>
+    <content type="html"><![CDATA[<p><em>Prerequisite</em>: basic C++ and game programming knowledge</p>
 
 <p>When you start any game, you expect to see a loading screen, followed by the
 main menu which has a button that allows you to play the game. When you start

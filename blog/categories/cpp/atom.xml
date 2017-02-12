@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Cpp | programmer having fun with bits]]></title>
   <link href="http://funwithbits.net/blog/categories/cpp/atom.xml" rel="self"/>
   <link href="http://funwithbits.net/"/>
-  <updated>2017-02-12T20:50:13-02:00</updated>
+  <updated>2017-02-12T21:02:54-02:00</updated>
   <id>http://funwithbits.net/</id>
   <author>
     <name><![CDATA[Raphael S. Carvalho (a.k.a. utroz)]]></name>
@@ -83,7 +83,7 @@ the concept of <a href="https://en.wikipedia.org/wiki/Futures_and_promises">futu
 Let&rsquo;s say that you want to call a function to sleep for 1 second. Usually, you
 would only call a sleep function with 1 as parameter, and then the calling
 thread will sleep for 1 second and continue from when it left off.
-In Seastar, you shouldn&rsquo;t block the the current thread due to performance
+In Seastar, you shouldn&rsquo;t block the current thread due to performance
 reasons, but you can block the task (also known as fiber). So you&rsquo;d need to
 call a Seastar function which promises to wake up the task after 1 second.</p>
 
@@ -138,7 +138,7 @@ Seastar apps, please go to:
 <a href="https://github.com/scylladb/seastar/tree/master/apps">https://github.com/scylladb/seastar/tree/master/apps</a></p>
 
 <p>If you need help, send an e-mail to the project&rsquo;s mailing list:
-<a href="&#109;&#97;&#105;&#x6c;&#116;&#111;&#x3a;&#x73;&#101;&#97;&#x73;&#x74;&#97;&#114;&#x2d;&#x64;&#101;&#x76;&#64;&#103;&#111;&#111;&#x67;&#x6c;&#x65;&#103;&#114;&#x6f;&#117;&#x70;&#x73;&#46;&#x63;&#111;&#109;">&#115;&#101;&#x61;&#x73;&#116;&#x61;&#114;&#x2d;&#100;&#101;&#x76;&#x40;&#103;&#111;&#x6f;&#x67;&#108;&#x65;&#103;&#x72;&#x6f;&#117;&#x70;&#115;&#46;&#99;&#x6f;&#x6d;</a></p>
+<a href="&#x6d;&#97;&#105;&#108;&#116;&#111;&#x3a;&#x73;&#101;&#97;&#115;&#x74;&#97;&#114;&#45;&#x64;&#x65;&#118;&#64;&#103;&#x6f;&#111;&#x67;&#108;&#101;&#103;&#x72;&#x6f;&#x75;&#x70;&#115;&#x2e;&#99;&#111;&#x6d;">&#115;&#101;&#97;&#x73;&#x74;&#x61;&#x72;&#45;&#x64;&#101;&#118;&#64;&#x67;&#x6f;&#111;&#x67;&#108;&#x65;&#103;&#114;&#x6f;&#117;&#x70;&#115;&#46;&#x63;&#111;&#x6d;</a></p>
 
 <h3>That&rsquo;s it&hellip;</h3>
 

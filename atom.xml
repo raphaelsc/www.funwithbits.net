@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[programmer having fun with bits]]></title>
-  <link href="http://funwithbits.net/atom.xml" rel="self"/>
-  <link href="http://funwithbits.net/"/>
-  <updated>2017-02-12T23:40:47-02:00</updated>
-  <id>http://funwithbits.net/</id>
+  <title><![CDATA[a programmer having fun with bits]]></title>
+  <link href="http://funwithbits.net/www.funwithbits.net/atom.xml" rel="self"/>
+  <link href="http://funwithbits.net/www.funwithbits.net/"/>
+  <updated>2017-07-01T05:06:17-03:00</updated>
+  <id>http://funwithbits.net/www.funwithbits.net/</id>
   <author>
     <name><![CDATA[Raphael S. Carvalho (a.k.a. utroz)]]></name>
     
@@ -14,10 +14,10 @@
 
   
   <entry>
-    <title type="html"><![CDATA[C++ Framework for Writing Servers Which Are as Fast as Usain Bolt]]></title>
-    <link href="http://funwithbits.net/blog/c-plus-plus-framework-for-writing-servers-as-fast-as-usain-bolt/"/>
+    <title type="html"><![CDATA[C++ Framework for Writing Servers as Fast as Usain Bolt]]></title>
+    <link href="http://funwithbits.net/www.funwithbits.net/blog/c-plus-plus-framework-for-writing-servers-as-fast-as-usain-bolt/"/>
     <updated>2017-02-12T17:45:25-02:00</updated>
-    <id>http://funwithbits.net/blog/c-plus-plus-framework-for-writing-servers-as-fast-as-usain-bolt</id>
+    <id>http://funwithbits.net/www.funwithbits.net/blog/c-plus-plus-framework-for-writing-servers-as-fast-as-usain-bolt</id>
     <content type="html"><![CDATA[<p><em>Prerequisite</em>: C++</p>
 
 <p>What if I tell you that there&rsquo;s a framework out there that allows you to write
@@ -56,7 +56,7 @@ isolated machine.</p>
 you have threads accessing shared resources, whereas a Seastar application will
 look like the right picture because of its shared-nothing design, look:</p>
 
-<p><img src="http://funwithbits.net/images/shared-nothing-pic.png" title="shared-nothing" alt="images"></p>
+<p><img src="http://funwithbits.net/www.funwithbits.net/images/shared-nothing-pic.png" title="shared-nothing" alt="images"></p>
 
 <p><strong>2.</strong> Each Seastar thread will have its own scheduler for small asynchronous tasks
 (usually stored in <a href="http://en.cppreference.com/w/cpp/utility/functional/function">std::function</a>),
@@ -153,7 +153,7 @@ Seastar apps, please go to:
 <a href="https://github.com/scylladb/seastar/tree/master/apps">https://github.com/scylladb/seastar/tree/master/apps</a></p>
 
 <p>If you need help, send an e-mail to the project&rsquo;s mailing list:
-<a href="&#109;&#97;&#105;&#x6c;&#116;&#111;&#58;&#x73;&#x65;&#x61;&#x73;&#116;&#x61;&#114;&#45;&#100;&#x65;&#x76;&#64;&#103;&#x6f;&#111;&#x67;&#108;&#x65;&#x67;&#x72;&#x6f;&#x75;&#112;&#115;&#46;&#99;&#111;&#x6d;">&#x73;&#x65;&#x61;&#115;&#116;&#97;&#114;&#45;&#x64;&#101;&#118;&#64;&#x67;&#x6f;&#111;&#x67;&#x6c;&#101;&#103;&#x72;&#x6f;&#x75;&#112;&#x73;&#x2e;&#x63;&#x6f;&#x6d;</a></p>
+<a href="&#109;&#97;&#x69;&#x6c;&#116;&#111;&#x3a;&#115;&#x65;&#97;&#x73;&#x74;&#97;&#x72;&#x2d;&#100;&#x65;&#x76;&#64;&#103;&#111;&#x6f;&#103;&#108;&#x65;&#x67;&#x72;&#x6f;&#x75;&#x70;&#115;&#x2e;&#x63;&#x6f;&#109;">&#x73;&#x65;&#97;&#115;&#116;&#97;&#x72;&#x2d;&#100;&#x65;&#118;&#64;&#103;&#x6f;&#111;&#x67;&#108;&#x65;&#x67;&#114;&#111;&#117;&#x70;&#x73;&#x2e;&#x63;&#x6f;&#x6d;</a></p>
 
 <h3>That&rsquo;s it&hellip;</h3>
 
@@ -169,9 +169,9 @@ write a simple server.</p>
   
   <entry>
     <title type="html"><![CDATA[Handling Game States]]></title>
-    <link href="http://funwithbits.net/blog/handling-game-states/"/>
+    <link href="http://funwithbits.net/www.funwithbits.net/blog/handling-game-states/"/>
     <updated>2017-01-28T22:52:39-02:00</updated>
-    <id>http://funwithbits.net/blog/handling-game-states</id>
+    <id>http://funwithbits.net/www.funwithbits.net/blog/handling-game-states</id>
     <content type="html"><![CDATA[<p><em>Prerequisite</em>: basic C++ and game programming knowledge</p>
 
 <p>When you start any game, you expect to see a loading screen, followed by the
@@ -368,9 +368,9 @@ title.</p>
   
   <entry>
     <title type="html"><![CDATA[Ready to Have Fun With Bits?!]]></title>
-    <link href="http://funwithbits.net/blog/hello-world/"/>
+    <link href="http://funwithbits.net/www.funwithbits.net/blog/hello-world/"/>
     <updated>2017-01-21T18:07:34-02:00</updated>
-    <id>http://funwithbits.net/blog/hello-world</id>
+    <id>http://funwithbits.net/www.funwithbits.net/blog/hello-world</id>
     <content type="html"><![CDATA[<p>Hi everyone. I&rsquo;m really glad that I finally launched this blog. Fun With Bits.</p>
 
 <p>Special thanks goes to <a href="http://catonmat.net">Peteris Krumins</a> who shared some

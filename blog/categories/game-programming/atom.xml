@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: Game Programming | a programmer having fun with bits]]></title>
-  <link href="http://funwithbits.net/www.funwithbits.net/blog/categories/game-programming/atom.xml" rel="self"/>
-  <link href="http://funwithbits.net/www.funwithbits.net/"/>
-  <updated>2017-07-13T14:51:11-03:00</updated>
-  <id>http://funwithbits.net/www.funwithbits.net/</id>
+  <link href="http://funwithbits.net/blog/categories/game-programming/atom.xml" rel="self"/>
+  <link href="http://funwithbits.net/"/>
+  <updated>2017-07-16T01:16:09-03:00</updated>
+  <id>http://funwithbits.net/</id>
   <author>
     <name><![CDATA[Raphael S. Carvalho (a.k.a. utroz)]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Handling Game States]]></title>
-    <link href="http://funwithbits.net/www.funwithbits.net/blog/handling-game-states/"/>
+    <link href="http://funwithbits.net/blog/handling-game-states/"/>
     <updated>2017-01-28T22:52:39-02:00</updated>
-    <id>http://funwithbits.net/www.funwithbits.net/blog/handling-game-states</id>
+    <id>http://funwithbits.net/blog/handling-game-states</id>
     <content type="html"><![CDATA[<p><em>Prerequisite</em>: basic C++ and game programming knowledge</p>
 
 <p>When you start any game, you expect to see a loading screen, followed by the

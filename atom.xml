@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[a programmer having fun with bits]]></title>
-  <link href="http://funwithbits.net/www.funwithbits.net/atom.xml" rel="self"/>
-  <link href="http://funwithbits.net/www.funwithbits.net/"/>
-  <updated>2017-07-13T14:51:11-03:00</updated>
-  <id>http://funwithbits.net/www.funwithbits.net/</id>
+  <link href="http://funwithbits.net/atom.xml" rel="self"/>
+  <link href="http://funwithbits.net/"/>
+  <updated>2017-07-16T01:16:09-03:00</updated>
+  <id>http://funwithbits.net/</id>
   <author>
     <name><![CDATA[Raphael S. Carvalho (a.k.a. utroz)]]></name>
     
@@ -14,10 +14,64 @@
 
   
   <entry>
+    <title type="html"><![CDATA[Programming and Classical Music]]></title>
+    <link href="http://funwithbits.net/blog/programming-and-classical-music/"/>
+    <updated>2017-07-16T00:03:39-03:00</updated>
+    <id>http://funwithbits.net/blog/programming-and-classical-music</id>
+    <content type="html"><![CDATA[<p>There&rsquo;s some magic in classical music that helps me as a programmer. Yes, I&rsquo;m
+definitely not the best programmer out there, but when I find it hard to come
+up with a creative solution, I listen to classical music over and over again.
+I leave my gratitude here for Chopin, Mozart, Dvorak, Paganini, Vivaldi,
+Beethoven and so many others composers. I&rsquo;m so grateful for all those pieces
+you guys have left behind.
+When I&rsquo;m going through a creativity crisis, I listen to your songs. I also
+like to listen to them while working. It can be said that we all need to be
+on a good mood to produce quality work. That&rsquo;s another thing that classical
+music plays an important role in my life. Whatever my mood is, I listen to
+classical music because it impacts my mind in a good manner. It&rsquo;s almost like
+an infinite potion of inspiration that you can drink from.</p>
+
+<p>People have different tastes, so I was thinking if your favorite genre can
+have the same effect on your life. Classical rock, instrumental rock, etc,
+could work. But I don&rsquo;t think shitty, noisy pop music would do it.
+I don&rsquo;t think I can find the magic in Beethoven symphonies, Vivaldi&rsquo;s four
+seasons, Paganini&rsquo;s caprices in some other genre. The complexity of the melody,
+the depth, the harmony in those musics are outstanding. I&rsquo;m having a really
+hard time here to describe it, i.e. how classical music impacts almost every
+single aspect of my life. It helps me boosting my creativity and also keep
+focused on the most important things, it makes me happy when I&rsquo;m sad, and also
+the other way around haha. Yes, the latter is true, have you ever tried
+listening to Chopin and Beethoven&rsquo;s sonatas?</p>
+
+<p>If you aren&rsquo;t into classical music, I leave here my invitation for your to try
+it out. I will help you by leaving some links below to some musics from the
+composers I like the most. They are just the tip of the iceberg though.</p>
+
+<p>I&rsquo;ll start with a magical performance by the Brazilian musician Arthur Moreira
+Lima which is considered one of the best Chopin interpreters:
+<a href="https://www.youtube.com/watch?v=QmF2F8YBU3E">https://www.youtube.com/watch?v=QmF2F8YBU3E</a></p>
+
+<p>Now Beethoven&rsquo;s moonlight sonata played by the brilliant piano player Valentina
+Lisitsa: <a href="https://www.youtube.com/watch?v=zucBfXpCA6s">https://www.youtube.com/watch?v=zucBfXpCA6s</a></p>
+
+<p>1) Vivaldi - Four seasons: <a href="https://www.youtube.com/watch?v=GRxofEmo3HA">https://www.youtube.com/watch?v=GRxofEmo3HA</a>
+2) Liszt - Hungarian Rhapsody No.2: <a href="https://www.youtube.com/watch?v=goeOUTRy2es">https://www.youtube.com/watch?v=goeOUTRy2es</a>
+3) Beethoven - 7th Symphony (Allegretto): <a href="https://www.youtube.com/watch?v=ffYKCNY6kUk">https://www.youtube.com/watch?v=ffYKCNY6kUk</a>
+4) Mozart - Requiem: <a href="https://www.youtube.com/watch?v=sPlhKP0nZII">https://www.youtube.com/watch?v=sPlhKP0nZII</a>
+5) Paganini - Caprice no. 24: <a href="https://www.youtube.com/watch?v=PZ307sM0t-0">https://www.youtube.com/watch?v=PZ307sM0t-0</a></p>
+
+<p>I really hope you guys will give classical music a chance. I didn&rsquo;t listen to
+it when I was a teenager. Now I love it, it&rsquo;s my favorite genre. Is there anyone
+out there that share the same feelings? Not necessarily classical music, but
+whichever genre you like the most.</p>
+]]></content>
+  </entry>
+  
+  <entry>
     <title type="html"><![CDATA[C++ Framework for Writing Servers Which Are as Fast as Usain Bolt]]></title>
-    <link href="http://funwithbits.net/www.funwithbits.net/blog/c-plus-plus-framework-for-writing-servers-as-fast-as-usain-bolt/"/>
+    <link href="http://funwithbits.net/blog/c-plus-plus-framework-for-writing-servers-as-fast-as-usain-bolt/"/>
     <updated>2017-02-12T17:45:25-02:00</updated>
-    <id>http://funwithbits.net/www.funwithbits.net/blog/c-plus-plus-framework-for-writing-servers-as-fast-as-usain-bolt</id>
+    <id>http://funwithbits.net/blog/c-plus-plus-framework-for-writing-servers-as-fast-as-usain-bolt</id>
     <content type="html"><![CDATA[<p><em>Prerequisite</em>: C++</p>
 
 <p>What if I tell you that there&rsquo;s a framework out there that allows you to write
@@ -56,7 +110,7 @@ isolated machine.</p>
 you have threads accessing shared resources, whereas a Seastar application will
 look like the right picture because of its shared-nothing design, look:</p>
 
-<p><img src="http://funwithbits.net/www.funwithbits.net/images/shared-nothing-pic.png" title="shared-nothing" alt="images"></p>
+<p><img src="http://funwithbits.net/images/shared-nothing-pic.png" title="shared-nothing" alt="images"></p>
 
 <p><strong>2.</strong> Each Seastar thread will have its own scheduler for small asynchronous tasks
 (usually stored in <a href="http://en.cppreference.com/w/cpp/utility/functional/function">std::function</a>),
@@ -153,7 +207,7 @@ Seastar apps, please go to:
 <a href="https://github.com/scylladb/seastar/tree/master/apps">https://github.com/scylladb/seastar/tree/master/apps</a></p>
 
 <p>If you need help, send an e-mail to the project&rsquo;s mailing list:
-<a href="&#x6d;&#97;&#x69;&#x6c;&#x74;&#x6f;&#x3a;&#x73;&#x65;&#97;&#x73;&#x74;&#x61;&#x72;&#45;&#x64;&#101;&#118;&#x40;&#x67;&#111;&#x6f;&#x67;&#108;&#101;&#x67;&#114;&#111;&#x75;&#x70;&#x73;&#46;&#x63;&#111;&#109;">&#x73;&#101;&#x61;&#115;&#x74;&#x61;&#x72;&#45;&#100;&#101;&#118;&#x40;&#103;&#x6f;&#111;&#x67;&#x6c;&#x65;&#x67;&#x72;&#111;&#117;&#112;&#115;&#x2e;&#x63;&#x6f;&#109;</a></p>
+<a href="&#x6d;&#97;&#x69;&#x6c;&#116;&#x6f;&#x3a;&#115;&#101;&#x61;&#115;&#x74;&#97;&#x72;&#x2d;&#x64;&#x65;&#118;&#64;&#x67;&#111;&#111;&#x67;&#x6c;&#x65;&#103;&#x72;&#111;&#117;&#112;&#115;&#46;&#x63;&#x6f;&#x6d;">&#x73;&#101;&#97;&#x73;&#x74;&#x61;&#114;&#45;&#x64;&#x65;&#x76;&#64;&#x67;&#x6f;&#x6f;&#103;&#108;&#x65;&#103;&#x72;&#111;&#117;&#112;&#115;&#46;&#x63;&#111;&#109;</a></p>
 
 <h3>That&rsquo;s it&hellip;</h3>
 
@@ -169,9 +223,9 @@ write a simple server.</p>
   
   <entry>
     <title type="html"><![CDATA[Handling Game States]]></title>
-    <link href="http://funwithbits.net/www.funwithbits.net/blog/handling-game-states/"/>
+    <link href="http://funwithbits.net/blog/handling-game-states/"/>
     <updated>2017-01-28T22:52:39-02:00</updated>
-    <id>http://funwithbits.net/www.funwithbits.net/blog/handling-game-states</id>
+    <id>http://funwithbits.net/blog/handling-game-states</id>
     <content type="html"><![CDATA[<p><em>Prerequisite</em>: basic C++ and game programming knowledge</p>
 
 <p>When you start any game, you expect to see a loading screen, followed by the
@@ -368,9 +422,9 @@ title.</p>
   
   <entry>
     <title type="html"><![CDATA[Ready to Have Fun With Bits?!]]></title>
-    <link href="http://funwithbits.net/www.funwithbits.net/blog/hello-world/"/>
+    <link href="http://funwithbits.net/blog/hello-world/"/>
     <updated>2017-01-21T18:07:34-02:00</updated>
-    <id>http://funwithbits.net/www.funwithbits.net/blog/hello-world</id>
+    <id>http://funwithbits.net/blog/hello-world</id>
     <content type="html"><![CDATA[<p>Hi everyone. I&rsquo;m really glad that I finally launched this blog. Fun With Bits.</p>
 
 <p>Special thanks goes to <a href="http://catonmat.net">Peteris Krumins</a> who shared some
